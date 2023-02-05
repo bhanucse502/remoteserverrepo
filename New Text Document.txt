@@ -7,3 +7,5 @@ this is feature2main
 =======
 This text is added in feature3 to commit and push
 >>>>>>> main
+
+This is added to merge
