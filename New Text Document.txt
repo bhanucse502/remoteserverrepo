@@ -2,4 +2,8 @@ this is new change made to this text document
 
 This text is added for the file
 
+<<<<<<< HEAD
+this is feature2main
+=======
 This text is added in feature3 to commit and push
+>>>>>>> main
