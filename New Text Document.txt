@@ -11,3 +11,5 @@ This text is added in feature3 to commit and push
 This is added to merge
 
 This stashed and merged
+
+This is 1234
